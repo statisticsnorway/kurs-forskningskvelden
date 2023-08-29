@@ -1,5 +1,5 @@
-# \<repo-navn>
-Beskriv hva repoet inneholder.
+# Material til Forskningskvelden 29.
+Notebooks og data for kurs arrangert av SSB på Forskningskvelden 29. september arrangert av Høgskolesenteret i Kongsvinger (HIK)
 
 ## Hvorfor er ikke dette repoet public?
 Denne overskriften og tilhørende avsnitt slettes hvis repoet er public. (Husk at for public repoer finnes det [krav](https://github.com/statisticsnorway/adr/blob/main/docs/0006-aapen-kildekode-i-ssb.md#kriterier-for-%C3%A5pen-kildekode) som må oppfylles.)
