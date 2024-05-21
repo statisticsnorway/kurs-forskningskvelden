@@ -11,7 +11,7 @@ python = ">=3.8,<4.0"
 pandas = "^1.5.3"
 plotly = "^5.15.0"
 ipykernel = "^6.25.2"
-requests = "^2.31.0"
+requests = "^2.32.0"
 nbformat = "^5.9.2"
 
 [build-system]
